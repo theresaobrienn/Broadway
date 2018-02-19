@@ -3,7 +3,10 @@ body{
   font-family: helvetica;
 }
 h1{
-  background-: image"../Broadway/resources/images/the-flatiron-building.png");
   color: white;
   float: center;
+}
+.image {
+  background-image: url("/Users/theresaobrien/Desktop/Broadway/resources/images/the-flatiron-building.png");
+
 }
